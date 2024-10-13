@@ -1,6 +1,6 @@
 {
   "name": "rating-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "scripts": {
     "build": "babel src --out-dir dist",
@@ -29,5 +29,5 @@
   "bugs": {
     "url": "https://github.com/elThiagoSM/rating-react"
   },
-  "homepage": "https://github.com/elThiagoSM/rating-react#readme"
+  "homepage": "https://elthiagosm.github.io/documentation-rating-react/"
 }
