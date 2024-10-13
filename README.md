@@ -2,7 +2,7 @@
 
 # Rating React
 
-Rating React is a [react](https://github.com/facebook/react) rating component which supports custom symbols both with [inline styles](https://facebook.github.io/react/tips/inline-styles.html) and glyphicons found in popular CSS Toolkits like [Fontawesome](http://fortawesome.github.io/Font-Awesome/icons/) or [Bootstrap](http://getbootstrap.com/components/).
+Rating React is an easy-to-use [react](https://github.com/facebook/react) rating component that allows the user to select a rating with stars, numbers or emojis, useful for reviews.
 
 ## Demo
 
@@ -20,19 +20,19 @@ npm i rating-react
 
 The `react-rating` component [peer depends](https://docs.npmjs.com/files/package.json#peerdependencies) on the [React](http://facebook.github.io/react/) library, the [Prop-Types](https://www.npmjs.com/package/prop-types) library and [React-Icons](https://www.npmjs.com/package/react-icons) library.
 
-You can install React using _npm_ too:
+Install React using _npm_ too:
 
 ```bash
 npm i react
 ```
 
-You can install Prop-Types using _npm_ too:
+Install Prop-Types using _npm_ too:
 
 ```bash
 npm i prop-types
 ```
 
-You can install React-Icons using _npm_ too:
+Install React-Icons using _npm_ too:
 
 ```bash
 npm i react-icons
@@ -80,4 +80,4 @@ npm i react-icons
 
 ## License
 
-[ISC License](https://github.com/dreyescat/react-rating/blob/master/LICENSE.md)
+[MIT License](https://github.com/dreyescat/react-rating/blob/master/LICENSE.md)

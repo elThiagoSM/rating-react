@@ -1,6 +1,6 @@
 {
   "name": "rating-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "scripts": {
     "build": "babel src --out-dir dist",
@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Thiago Silveira Machado",
-  "license": "ISC",
+  "license": "MIT",
   "description": "A component that allows the user to select a rating with stars, numbers, or emojis, useful for reviews.",
   "dependencies": {
     "prop-types": "^15.8.1",
